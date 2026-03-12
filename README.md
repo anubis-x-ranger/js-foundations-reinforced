@@ -36,7 +36,7 @@ Instead of passive learning, this repository focuses on **building small but rea
 js-foundations-reinforced/
 │
 ├── day1/
-│   └── file-stats-cli.js
+│   └── fileReaderCli.js
 │
 ├── day2/
 │
